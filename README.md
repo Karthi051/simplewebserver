@@ -1,4 +1,4 @@
-![image](https://github.com/Karthi051/simplewebserver/assets/148327224/475aca46-c0b2-46f2-bedd-cd61ac46e751)# EX01 Developing a Simple Webserver
+## EX01 Developing a simple webserver
 ## Date:1:3:24
 
 ## AIM:
